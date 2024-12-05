@@ -69,5 +69,10 @@ namespace Backpropagation
 
             textBox5.Text = "" + nn.getOuputData(0);
         }
+
+        private void textBox2_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
